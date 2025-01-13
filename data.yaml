@@ -2,8 +2,8 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 2
-names: ['0', 'wire']
+nc: 1
+names: ['wire']
 
 roboflow:
   workspace: 123-kxxkz
