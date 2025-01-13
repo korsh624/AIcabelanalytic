@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['0', 'wire']
+
+roboflow:
+  workspace: 123-kxxkz
+  project: 23erthg
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/123-kxxkz/23erthg/dataset/2
